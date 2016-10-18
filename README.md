@@ -1,6 +1,4 @@
-Android Request Permission Dialog
-
-Create Dialog to request Permission Android 6.0 Marshmallow
+Show Dialog to request Permission Android 6.0 Marshmallow
 --------------
 <img src="screenshot.png" width="500"/>
 
